@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Enhui Zhao"
 title_separator          : "-"
 name                     : &name "Enhui Zhao"
 description              : &description "personal description"
